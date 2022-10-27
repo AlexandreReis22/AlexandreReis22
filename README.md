@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá, Sou Alexandre Reis 
 
-<!--
-**AlexandreReis22/AlexandreReis22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Unity com foco em jogos 2D
+- 🌱 Estudando C# aplicado em UNITY
+- 😄 Pronouns: Ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/alexandreReis22">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrereis22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrereis22&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>         
+   <img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
